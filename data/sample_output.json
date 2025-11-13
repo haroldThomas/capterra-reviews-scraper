@@ -1,0 +1,16 @@
+[
+  {
+    "reviewer_name": "John Doe",
+    "review_rating": 4,
+    "review_text": "This software really helped improve our team's productivity. Highly recommended.",
+    "review_date": "2023-10-15",
+    "product_name": "Apify"
+  },
+  {
+    "reviewer_name": "Jane Smith",
+    "review_rating": 5,
+    "review_text": "Excellent product with great support. Worth every penny!",
+    "review_date": "2023-09-20",
+    "product_name": "Apify"
+  }
+]
